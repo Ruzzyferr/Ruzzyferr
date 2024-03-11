@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bulutruzgaremir@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18Bm-aniYceENTfKmNjFoZ0lnI_TnyRlZ/view?usp=sharing](https://drive.google.com/file/d/18Bm-aniYceENTfKmNjFoZ0lnI_TnyRlZ/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/18Bm-aniYceENTfKmNjFoZ0lnI_TnyRlZ/view?usp=sharing)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
