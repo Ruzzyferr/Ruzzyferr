@@ -15,6 +15,12 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/18Bm-aniYceENTfKmNjFoZ0lnI_TnyRlZ/view?usp=sharing](https://drive.google.com/file/d/18Bm-aniYceENTfKmNjFoZ0lnI_TnyRlZ/view?usp=sharing)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
+</picture>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ruzgar-emir-bulut-679ba41a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruzgar-emir-bulut-679ba41a4" height="30" width="40" /></a>
