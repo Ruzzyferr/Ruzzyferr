@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bulutruzgaremir@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/17mFbh4vVExEbjk6L52U_3k-qWAx8GKLs/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/116igf7X9ivLzl-qS947GKdPNpUmCfrei/view?usp=sharing)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ruzzyferr/Ruzzyferr/output/github-contribution-grid-snake-dark.svg">
