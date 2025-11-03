@@ -3,17 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruzzyferr&label=Profile%20views&color=0e75b6&style=flat" alt="ruzzyferr" /> </p>
 
-- 🔭 I’m currently working on [My own project "Cheep"](https://github.com/Ruzzyferr/CheepNew) and [twitter Back end Application](https://github.com/Ruzzyferr/twitterLikeBackend)
-
-- 🌱 I’m currently learning **Docker, Kafka, AWS, Flutter**
-
-- 🤝 I’m looking for help with **Cheep because I need some advices about front end**
-
-- 💬 Ask me about **Spring boot, PostgreSQL**
-
 - 📫 How to reach me **bulutruzgaremir@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/116igf7X9ivLzl-qS947GKdPNpUmCfrei/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1bFJg-IInezmWiIMMBbY3uxoSLWktFnuk/view?usp=sharing)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ruzzyferr/Ruzzyferr/output/github-contribution-grid-snake-dark.svg">
@@ -23,8 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ruzgar-emir-bulut-679ba41a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruzgar-emir-bulut-679ba41a4" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ruzzyferr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ruzzyferr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ruzgaremirbulut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruzgar-emir-bulut-679ba41a4" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
