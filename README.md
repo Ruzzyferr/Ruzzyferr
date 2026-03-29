@@ -9,7 +9,7 @@
 - 💼 Full-Stack Engineer with hands-on experience in enterprise software, backend systems, mobile applications, and real-time communication platforms
 - 🚀 Currently working with **React Native, Spring Boot, Angular, Node.js, TypeScript, and Java**
 - 🧠 Interested in **backend engineering, distributed systems, real-time architecture, and product-focused full-stack development**
-- 📫 Reach me at **bulutruzgaremir@gmail.com**
+- 📫 Reach me at **bulutruzgarofficial@gmail.com**
 - 📄 View my **[CV](https://drive.google.com/file/d/1-0VrEozqZ91-VakshbrHrEKwT1l4ZIS_/view?usp=sharing)**
 
 ### About Me
