@@ -26,6 +26,15 @@ I enjoy building products from scratch, solving complex backend problems, and de
 
 ### Featured Projects
 
+#### Conversa — Real-time Dating & Social Platform
+A full-stack, production-grade dating app with location-based discovery, swipe matching, real-time chat, AI-assisted messaging, and subscription monetization. Shipped as a cross-platform mobile app backed by a modular API.
+
+**Highlights:**
+- **Mobile** built with **React Native, Expo (SDK 54), TypeScript, and Expo Router** → [conversa-mobile](https://github.com/Ruzzyferr/conversa-mobile)
+- **Backend** built with **Node.js, Express 5, TypeScript, Prisma, PostgreSQL, and Socket.IO** → [conversa-backend](https://github.com/Ruzzyferr/conversa-backend)
+- Real-time chat with voice messages, AI message polishing (OpenAI/OpenRouter), RevenueCat subscriptions, AdMob rewards, Expo push notifications, and AWS S3 media
+- End-to-end product ownership: auth, matching engine, trust & safety, billing, and growth features
+
 #### <a href="https://swiip.app" target="_blank"> Swiip
 An open-source real-time communication platform with support for servers, channels, DMs, voice/video calls, and screen sharing.
 
