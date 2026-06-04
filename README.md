@@ -26,7 +26,7 @@ I enjoy building products from scratch, solving complex backend problems, and de
 
 ### Featured Projects
 
-#### Swiip
+#### Swiip (<a href="https://swiip.app" target="_blank">)
 An open-source real-time communication platform with support for servers, channels, DMs, voice/video calls, and screen sharing.
 
 **Highlights:**
