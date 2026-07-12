@@ -5,12 +5,12 @@
   <img src="https://komarev.com/ghpvc/?username=ruzzyferr&label=Profile%20views&color=0e75b6&style=flat" alt="ruzzyferr" />
 </p>
 
-- 🌍 Based in Izmir, Turkiye
+- 🌍 Based in Istanbul, Türkiye — open to remote & relocation
 - 💼 Full-Stack Engineer with hands-on experience in enterprise software, backend systems, mobile applications, and real-time communication platforms
 - 🚀 Currently working with **React Native, Spring Boot, Angular, Node.js, TypeScript, and Java**
 - 🧠 Interested in **backend engineering, distributed systems, real-time architecture, and product-focused full-stack development**
 - 📫 Reach me at **bulutruzgarofficial@gmail.com**
-- 📄 View my **[CV](https://drive.google.com/file/d/1-0VrEozqZ91-VakshbrHrEKwT1l4ZIS_/view?usp=sharing)**
+- 📄 View my **[CV](https://github.com/Ruzzyferr/Ruzzyferr/blob/main/Ruzgar_Emir_Bulut_CV.pdf)**
 
 ### About Me
 I am a software engineer with experience building end-to-end products across multiple domains, including enterprise applications, mobile development, serverless systems, and real-time communication platforms.
@@ -43,13 +43,13 @@ An open-source real-time communication platform with support for servers, channe
 - Includes real-time messaging, presence, typing, moderation, and media signalling
 - Designed for scalable communication workflows across web and desktop
 
-#### Cheep
-A product comparison and shopping platform focused on search, categorization, and market-based pricing workflows.
+#### Cheep — Multi-Country Grocery Price Comparison
+A full-stack platform that compares supermarket prices across countries and recommends the cheapest basket and shopping route. **Live, launching in Poland in 2026.** → [Cheep](https://github.com/Ruzzyferr/Cheep)
 
 **Highlights:**
-- Built full-stack features for product search, comparison, and shopping list management
-- Integrated **Kafka** for asynchronous communication
-- Used **Elasticsearch** for fast and scalable search experiences
+- Multi-country architecture (Türkiye, Poland, Germany, Switzerland, Sweden) with per-country market scoping, currency handling, and i18n
+- Automated scraping/ingestion pipeline feeding a price-matching engine; **Kafka** for streaming between services, **Elasticsearch** for fast product search
+- **React Native** mobile app; **Node.js/Express + Prisma/PostgreSQL** backend with JWT auth and shopping-list & route/basket optimization
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ruzzyferr/Ruzzyferr/output/github-contribution-grid-snake-dark.svg">
